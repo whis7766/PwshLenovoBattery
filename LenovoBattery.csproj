@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="publish/LenovoBattery/PowerBattery.dll" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="publish/LenovoBattery/PowerBattery.dll" CopyToOutputDirectory="PreserveNewest" TargetPath="PowerBattery.dll" />
   </ItemGroup>
 
 </Project>
